@@ -62,15 +62,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\OurProject\Scripts\BoardManager.cs" />
+    <Compile Include="Assets\OurProject\Scripts\Enemy.cs" />
     <Compile Include="Assets\OurProject\Scripts\GameManager.cs" />
-    <Compile Include="Assets\ZComplete-Game\Scripts\BoardManager.cs" />
-    <Compile Include="Assets\ZComplete-Game\Scripts\Enemy.cs" />
-    <Compile Include="Assets\ZComplete-Game\Scripts\GameManager.cs" />
-    <Compile Include="Assets\ZComplete-Game\Scripts\Loader.cs" />
-    <Compile Include="Assets\ZComplete-Game\Scripts\MovingObject.cs" />
-    <Compile Include="Assets\ZComplete-Game\Scripts\Player.cs" />
-    <Compile Include="Assets\ZComplete-Game\Scripts\SoundManager.cs" />
-    <Compile Include="Assets\ZComplete-Game\Scripts\Wall.cs" />
+    <Compile Include="Assets\OurProject\Scripts\Loader.cs" />
+    <Compile Include="Assets\OurProject\Scripts\MovingObject.cs" />
+    <Compile Include="Assets\OurProject\Scripts\Player.cs" />
+    <Compile Include="Assets\OurProject\Scripts\SoundManager.cs" />
+    <Compile Include="Assets\OurProject\Scripts\Wall.cs" />
     <None Include="Assets\OurProject\Fonts\OFL.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/0 Unity Projets/RogueLike/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
